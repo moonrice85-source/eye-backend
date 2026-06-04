@@ -1,9 +1,3 @@
 flask
 flask-cors
-ultralytics
-langchain-core
-langchain-huggingface
-langchain-groq
-langchain-pinecone
-pinecone-client
-pillow
+requests
